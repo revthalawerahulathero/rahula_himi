@@ -1,0 +1,6 @@
+{
+  "name": "Rev. Thalawe Rahula Himi - Portfolio & Workspace Manager",
+  "description": "Premium iOS glassy-styled developer portfolio for Rev. Thalawe Rahula Himi, featuring ICBT Diploma & iCET Certified Master credentials, an interactive AI brief generator, and workspace tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
